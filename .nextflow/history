@@ -1,0 +1,25 @@
+2024-11-09 15:27:13	3.9s	hungry_pesquet	OK	2e7b9470d64a94b4308932490797c59d	06a8f837-5c91-4d75-b424-b37519ac16d4	nextflow run hello-world.nf
+2024-11-09 15:35:17	1.7s	boring_volta	OK	1cf14c34dbfd7f0f1c128f389636b14f	8dd97578-1bda-45a8-90ad-64257c3ec2a9	nextflow run hello-world.nf
+2024-11-09 15:38:05	1.7s	peaceful_chandrasekhar	OK	bb20fd51f3791599b490848062df4e9d	ecf217c1-31a1-4f83-88ad-32e7de8044cc	nextflow run hello-world.nf
+2024-11-09 15:39:23	1.9s	adoring_lavoisier	OK	1cf14c34dbfd7f0f1c128f389636b14f	25a9c029-74ef-4c9f-b793-536f2d172a74	nextflow run hello-world.nf
+2024-11-09 15:41:15	1.7s	distraught_roentgen	OK	81e1ed60e022bb9962d9140e4c55e38a	5d902126-8126-4d3d-a605-0020e17a33fc	nextflow run hello-world.nf
+2024-11-09 15:47:49	2.6s	confident_euclid	OK	81e1ed60e022bb9962d9140e4c55e38a	5d902126-8126-4d3d-a605-0020e17a33fc	nextflow run hello-world.nf -resume
+2024-11-09 15:55:02	2.2s	spontaneous_easley	OK	b92c901b084f2c782c7f4b898aaff83e	905c5e59-4b3a-4953-8528-85e22d665750	nextflow run hello-world.nf
+2024-11-09 15:56:48	2.2s	desperate_solvay	OK	a660f0db07d383ddd4a438bce19ad58d	44e4c496-0fb2-41ee-8cf5-d3695aa327e7	nextflow run hello-world.nf
+2024-11-09 16:35:31	2.6s	compassionate_lumiere	OK	3f5e306c8b03b460134a9c2e19728a4b	1d937fdc-2acb-40e5-be73-c1f57fca2777	nextflow run hello-world.nf --greeting 'Bonjour le monde!'
+2024-11-09 16:38:17	4.3s	chaotic_crick	OK	70c7c945fda71e099354a483701b3f7d	1fade902-5d5d-4551-9df9-9c84393e351e	nextflow run hello-world.nf
+2024-11-09 16:41:31	4s	admiring_ptolemy	OK	24da8ca539817bcf6f80bfd5c18eb844	112efee1-665a-44b2-8ab1-56deb3fcdd0c	nextflow run hello-world.nf --greeting 'Bonjour le monde!'
+2024-11-09 16:41:52	2.2s	hopeful_descartes	OK	24da8ca539817bcf6f80bfd5c18eb844	16cbc379-29d2-4e11-90bc-6f1742496448	nextflow run hello-world.nf
+2024-11-09 16:43:03	4.3s	reverent_descartes	ERR	994e6f9d534230f5ba3a7ecf0b650bd2	55fb91df-5033-4364-9c79-e6f8d6c0262f	nextflow run hello-world.nf
+2024-11-09 16:44:41	2.6s	chaotic_hawking	OK	6e2d81f960f2e73b6637aaaf76257e78	b4d3900d-5402-4f9c-9b2d-58480ec02ca6	nextflow run hello-world.nf
+2024-11-09 16:48:05	3.1s	adoring_hugle	OK	d2791df4202fd1750a3a9e53e8267718	1192d7ab-ec74-49ca-b1f6-363639c7775c	nextflow run hello-world.nf
+2024-11-09 16:49:08	2.9s	maniac_darwin	OK	d2791df4202fd1750a3a9e53e8267718	81fa9576-0c4f-42ea-911e-c1f4609f2e5c	nextflow run hello-world.nf --greeting 'Konnichiwa!'
+2024-11-09 16:58:36	-	pedantic_ride	-	646d2985489cd23653c9147f71484b8e	c9f5a049-97fb-4e7b-af2d-b1edcad44e73	nextflow run hello-world.nf --greeting 'Hello World!'
+2024-11-09 17:02:12	3.9s	boring_kalman	OK	3e59755eae6618ec81b282132002221e	daa88006-2fb1-493d-916a-3c113acc4da6	nextflow run hello-world.nf --greeting 'Hello World!'
+2024-11-09 17:09:14	5.4s	kickass_miescher	OK	837abe2cd1dcba61ecc4eb1fa3802abc	2eb929cb-9494-4fe2-a393-1074283fc9fb	nextflow run hello-world.nf
+2024-11-09 17:10:34	6.7s	intergalactic_poitras	OK	837abe2cd1dcba61ecc4eb1fa3802abc	13d80eae-50ca-4cdf-bf7a-7467a69c6837	nextflow run hello-world.nf -ansi-log false
+2024-11-09 17:15:49	3s	nasty_stone	ERR	a12fbff08269dd8fc640b74f34665016	6b802b88-6c82-4afe-aa8b-5a49f46c1078	nextflow run hello-world.nf
+2024-11-09 17:17:47	3.1s	happy_nightingale	OK	d715070da2eaf9fd025caf4102b14b04	ac8bbe81-a506-4ed3-8bb7-f6a803baadfb	nextflow run hello-world.nf
+2024-11-09 17:23:12	-	distracted_kare	-	69aa8d0465a2fc3414750461eae1edf8	a1a8e844-ba4a-4c40-ad65-90f04390bd46	nextflow run hello-world.nf
+2024-11-09 17:24:07	2.6s	golden_kare	OK	deeaa12bbd9dca20fa509a1279bf1ac3	52daa6ee-e2c4-4b86-a25a-63102e11fca4	nextflow run hello-world.nf
+2024-11-09 17:25:04	3.9s	admiring_leibniz	OK	903a4ab9f74efecc78ebb5a770524096	8027f1f5-60a1-4abe-89d9-b18417440fe9	nextflow run hello-world.nf

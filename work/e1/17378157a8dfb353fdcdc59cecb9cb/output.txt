@@ -1,0 +1,1 @@
+/workspace/gitpod/hello-nextflow/work/23/3e26e667c35e253d1f73f0a76a4867/output.txt
